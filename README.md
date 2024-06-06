@@ -1,1 +1,1 @@
-# School_surveys-_of_satisfaction_at_the_end_of_modules_training
+Measurement of student satisfaction with the different modules and subjects taught in the school's brands. Focus on a Top N instead of exhaustiveness given the large number of module codes available on the internal registration system.
